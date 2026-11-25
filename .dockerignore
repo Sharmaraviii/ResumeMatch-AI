@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+__pycache__
+.pytest_cache
+*.pdf
+*.zip
+.env
+*.log
+tests
+sample_*
+docs

@@ -1,0 +1,1 @@
+We seek a junior AI software engineer with Python, FastAPI, machine learning, NLP, SQL, Docker, Git, and REST API experience. Responsibilities include implementing embedding-based semantic search, evaluating retrieval systems, deploying APIs, and collaborating with backend engineers. Knowledge of RAG, LangChain, and PostgreSQL is a plus.

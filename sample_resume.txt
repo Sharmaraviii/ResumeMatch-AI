@@ -1,0 +1,1 @@
+Software engineering student experienced in Python, Java, Spring Boot, SQL and REST API development. Built backend services, worked with Git, and completed machine learning coursework using scikit-learn and pandas. Familiar with unit testing and PostgreSQL.
